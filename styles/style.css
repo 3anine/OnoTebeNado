@@ -239,6 +239,7 @@
   text-transform: uppercase;
   font-weight: 700;
   margin-bottom: 100px;
+  word-spacing: 0px;
 }
 
 .about__text {
